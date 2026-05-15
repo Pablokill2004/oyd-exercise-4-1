@@ -1,0 +1,4 @@
+archive_bucket_arn = "arn:aws:s3:::archive-module-dev"
+archive_bucket_name = "archive-module-dev"
+user_events_table_arn = "arn:aws:dynamodb:us-west-2:343147895833:table/user-events-dev"
+user_events_table_name = "user-events-dev"
