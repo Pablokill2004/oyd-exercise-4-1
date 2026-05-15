@@ -6,11 +6,11 @@
 
 Save the full output to: 
 
-[`evidence/state-list`](evidence\state-list.txt)
+[`evidence/state-list`](./evidence/state-list.txt)
 
 
 ## `Run terraform output.`
 
 Save the full output to: 
 
-[`evidence/outputs`](evidence\outputs.txt)
+[`evidence/outputs`](./evidence/outputs.txt)
